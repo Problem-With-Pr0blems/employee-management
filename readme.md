@@ -15,11 +15,10 @@ Project Requirements List: {
     10 Notifications and Reminders
 }
 
-Team Members List: Aalam Tashmatov , Zhasmin Iusupova , Saikal Batyrbekova
+Team Members List: Aalam Tashmatov , Zhasmin Iusupova 
 
 Roles of Group Members: {
-    Aalam Tasmatov: Graphic USer Interface 
-    Saikal Batyrbekova : Database
+    Aalam Tasmatov: Graphic USer Interface database
     Zhasmin Iusupova : Main java logic code
     All: ppt , video tutorial , mvc , read.me } 
 
