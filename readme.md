@@ -23,5 +23,5 @@ Roles of Group Members: {
     Andrei Kurianov: Main java logic code , git hub , database
     All: ppt , video tutorial , mvc , read.me } 
 
-Screenshots:
+Video: https://www.youtube.com/watch?v=eNbmKwQcIus
 
