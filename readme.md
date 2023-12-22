@@ -18,8 +18,9 @@ Project Requirements List: {
 Team Members List: Aalam Tashmatov , Zhasmin Iusupova 
 
 Roles of Group Members: {
-    Aalam Tasmatov: Graphic USer Interface database
+    Aalam Tasmatov: Graphic USer Interface 
     Zhasmin Iusupova : Main java logic code
+    Andrei Kurianov: Main java logic code , git hub , database
     All: ppt , video tutorial , mvc , read.me } 
 
 Screenshots:
